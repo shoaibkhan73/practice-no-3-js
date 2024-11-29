@@ -1,4 +1,4 @@
-console.log("hellow i am shoaib");
+console.log("hellow i am shoaib i am cheking result in termanal with the help of code runner extantion");
 
 let age = 18 ;
 // let grace = 2 ;
